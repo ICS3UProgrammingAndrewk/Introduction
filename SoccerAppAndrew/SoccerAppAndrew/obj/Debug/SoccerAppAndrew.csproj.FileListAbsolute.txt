@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\bin\Debug\SoccerAppAndrew.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\bin\Debug\SoccerAppAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\bin\Debug\SoccerAppAndrew.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\SoccerAppAndrew\SoccerAppAndrew\obj\Debug\SoccerAppAndrew.FrmSoccerApp.resources

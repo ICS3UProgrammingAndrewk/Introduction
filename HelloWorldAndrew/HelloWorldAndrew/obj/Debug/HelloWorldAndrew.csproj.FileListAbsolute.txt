@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\bin\Debug\HelloWorldAndrew.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\bin\Debug\HelloWorldAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\bin\Debug\HelloWorldAndrew.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.frmHelloWorld.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\HelloWorldAndrew\HelloWorldAndrew\obj\Debug\HelloWorldAndrew.pdb
