@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.PerAreaVolAndrew.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\bin\Debug\PerAreaVolAndrew.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\bin\Debug\PerAreaVolAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\bin\Debug\PerAreaVolAndrew.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\KuAndrew (s444415)\Introduction\PerAreaVolAndrew\PerAreaVolAndrew\obj\Debug\PerAreaVolAndrew.pdb
